@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html#course-description-and-objectives",
+    "href": "index.html#course-description-and-objectives",
+    "title": "MGMT 47400: Predictive Analytics",
+    "section": "Course Description and Objectives",
+    "text": "Course Description and Objectives\nThe course enables students to navigate the entire predictive analytics pipeline skillfully—from data preparation and exploration to modeling, assessment, and interpretation. Throughout the course, learners engage with real-world examples and hands-on labs emphasizing essential programming and analytical skills. By exploring topics such as linear and logistic regression, classification, resampling methods, regularization techniques, tree-based approaches, support vector machines, and advanced learning paradigms (including neural networks and unsupervised methods), participants gain a robust theoretical understanding and practical experience. Ultimately, students will leave the course equipped to apply predictive models to data-driven problems, communicate their findings to diverse audiences, and critically evaluate model performance to inform strategic decision-making across various business contexts.\nCourse Website: https://davi-moreira.github.io/2025S_predictive_analytics_purdue_MGMT47400/\n\nInstructor: Professor Davi Moreira\n\nEmail: dmoreira@purdue.edu\nOffice: Young Hall 414\nVirtual Office hours: Zoom link in your Course Brightspace Page\nIndividual Appointments: Book time with me through the link in the course syllabus on your Course Brightspace Page or by appointment.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "MGMT 47400: Predictive Analytics",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the conclusion of this course, students will be able to:\n\nExplain Core Predictive Analytics Concepts: Articulate key principles of statistical learning and predictive analytics, including fundamental terminology, modeling strategies, and the role of data-driven insights in business contexts.\nPrepare and Explore Data Effectively: Demonstrate proficiency in cleaning, organizing, and exploring datasets, applying tools and techniques for data preprocessing, feature engineering, and exploratory analysis.\nImplement Diverse Modeling Techniques: Construct predictive models using linear and logistic regression, classification methods, resampling procedures, and regularization techniques.\nAssess and Interpret Model Performance: Evaluate the accuracy, robustness, and interpretability of predictive models, critically examining issues such as overfitting, bias-variance trade-offs, and cross-validation results.\nCommunicate Analytical Findings: Present analytical outcomes and model interpretations to technical and non-technical audiences, crafting clear, concise, and visually effective reports or presentations.\nIntegrate Predictive Analytics into Decision-Making: Recommend actionable strategies based on model findings, demonstrating the ability to align analytical results with organizational objectives and inform evidence-based decision processes.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#course-materials",
+    "href": "index.html#course-materials",
+    "title": "MGMT 47400: Predictive Analytics",
+    "section": "Course Materials",
+    "text": "Course Materials\n\nTextbooks (Required): ISLP James, G., Witten, D., Hastie, T., & Tibshirani, R. (2023). An Introduction to Statistical Learning with Applications in Python. Springer. https://doi.org/10.1007/978-1-0716-2926-2. Download here: https://www.statlearning.com/\nComputing (Required): A laptop or desktop with internet access and the capability to run Python code through Google Colab: https://colab.research.google.com/.\nSoftware (Required): Google Colab is a cloud-based platform that requires no software installation on your local machine; it is accessible through a modern web browser such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari. To use Google Colab, you need a Google account and a stable internet connection. While optional, having tools like a local Python installation (e.g., Anaconda) or a Python IDE (e.g., Jupyter Notebook or VS Code) can be helpful for offline development. Additionally, browser extensions, such as those for VS Code integration, can enhance your experience but are not required. This makes Google Colab convenient and easy for Python programming and data science tasks.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#course-infra-structure",
+    "href": "index.html#course-infra-structure",
+    "title": "MGMT 47400: Predictive Analytics",
+    "section": "Course Infra-structure",
+    "text": "Course Infra-structure\nBrightspace: The Course Brightspace Page https://purdue.brightspace.com/ should be checked on a regular basis for announcements and course material.",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]
